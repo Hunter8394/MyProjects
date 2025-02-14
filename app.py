@@ -67,7 +67,7 @@ def main():
     elif menu_option == "Important Links":
         st.sidebar.write("### 🔗Important Links")
         st.write("""
-        - [Project Git URL] (https://github.com)
+        - [Project Git URL] (https://github.com/Hunter8394/MyProjects.git)
         - [Hugging Face Models] (https://huggingface.co/models)
         - [Streamlit Documentation] (https://docs.streamlit.io/)
         - [NLTK Documentation] (https://www.nltk.org/)
