@@ -78,7 +78,7 @@ For other queries, the chatbot uses **Hugging Face's DistilGPT-2 model** to gene
 ---
 
 ## 👥 Contributors
-- **Your Name** - [GitHub Profile](https://github.com/Hunter8394)
+- **S K M Saif** - [GitHub Profile](https://github.com/Hunter8394)
 
 Feel free to contribute and improve the project! 🚀
 
